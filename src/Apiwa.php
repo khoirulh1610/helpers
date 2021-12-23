@@ -2,8 +2,7 @@
 
 namespace Khoirulh1610\Helpers;
 
-class Apiwa{
-	
+class Apiwa{	
 	static function layanan() {
         return "diajax";        
     }
