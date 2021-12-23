@@ -3,13 +3,12 @@
 namespace Khoirulh1610\Helpers;
 
 class Apiwa{
-	public $layanan;
 	
-	public function layanan() {
+	static function layanan() {
         return "diajax";        
     }
 
-	public function start(){
+	static function start(){
 		return self::layanan();
 	}
 }
