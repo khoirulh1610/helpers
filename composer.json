@@ -1,0 +1,19 @@
+{
+    "name": "khoirulh1610/helpers",
+    "description": "Helper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Khoirulh1610\\Helpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "khoirul hamdani",
+            "email": "khoirulh1610@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
